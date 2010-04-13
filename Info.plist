@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>BFXHalveAndAdd</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.BFXHalveAndAdd</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>BFXHalveAndAdd</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>BFXHalveAndAdd</string>
+	<key>ProPlugDictionaryVersion</key>
+	<string>1.0</string>
+	<key>ProPlugDynamicRegistration</key>
+	<false/>
+	<key>ProPlugPlugInGroupList</key>
+	<array>
+		<dict>
+			<key>groupName</key>
+			<string>BroFX Transitions</string>
+			<key>uuid</key>
+<!-- You must change this Group UUID. Use the uuidgen command in Terminal to generate a unique UUID. -->
+			<string>826A0F2E-AF27-4D5C-8563-CCB980C3BFF4</string>
+		</dict>
+	</array>
+	<key>ProPlugPlugInList</key>
+	<array>
+		<dict>
+			<key>className</key>
+			<string>BFXHalveAndAdd</string>
+			<key>displayName</key>
+			<string>BFXHalveAndAdd::FxPlug Name</string>
+			<key>group</key>
+<!-- You must change this UUID. It must match the Group UUID that you enter above. -->
+			<string>826A0F2E-AF27-4D5C-8563-CCB980C3BFF4</string>
+			<key>infoString</key>
+			<string>BFXHalveAndAdd::FxPlug Description</string>
+			<key>protocolNames</key>
+			<array>
+				<string>FxTransition</string>
+			</array>
+			<key>uuid</key>
+<!-- You must change this Plug-in UUID Use the uuidgen command in Terminal to generate a unique UUID. -->
+			<string>9D9E6D94-7B03-4669-B0E2-E5A99E87ED7D</string>
+			<key>version</key>
+			<string>1</string>
+		</dict>
+	</array>
+	<key>ProPlugProtocolList</key>
+	<array>
+		<dict>
+			<key>protocolName</key>
+			<string>FxParameterCreationAPI</string>
+			<key>versions</key>
+			<array>
+				<integer>1</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>protocolName</key>
+			<string>FxParameterRetrievalAPI</string>
+			<key>versions</key>
+			<array>
+				<integer>1</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>protocolName</key>
+			<string>FxParameterSettingAPI</string>
+			<key>versions</key>
+			<array>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

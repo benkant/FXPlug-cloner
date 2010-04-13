@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	018396D70662C2C00004726E /* BFXHalveAndAdd.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 646}}";
+			sepNavSelRange = "{239, 0}";
+			sepNavVisRange = "{0, 468}";
+			sepNavWindowFrame = "{{1478, 774}, {1001, 774}}";
+		};
+	};
+	018396D80662C2C00004726E /* BFXHalveAndAdd.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 4564}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{0, 1368}";
+			sepNavWindowFrame = "{{1475, 526}, {1004, 974}}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Development;
+		activeExecutable = B50ABFF20D3845D400861DFC /* Final Cut Pro */;
+		activeTarget = 8D57630D048677EA00EA77CD /* BFXHalveAndAdd */;
+		breakpoints = (
+		);
+		codeSenseManager = B5D144C50D3842DD0051A1CA /* Code sense */;
+		executables = (
+			B50ABFF20D3845D400861DFC /* Final Cut Pro */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 231906822;
+			PBXWorkspaceStateSaveDate = 231906822;
+		};
+		perUserProjectItems = {
+			B50A12BC0D71981800B7FF19 /* PBXTextBookmark */ = B50A12BC0D71981800B7FF19 /* PBXTextBookmark */;
+			B51E3EA50DD29FCE007E735E /* PBXTextBookmark */ = B51E3EA50DD29FCE007E735E /* PBXTextBookmark */;
+		};
+		sourceControlManager = B5D144C40D3842DD0051A1CA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D57630D048677EA00EA77CD /* BFXHalveAndAdd */ = {
+		activeExec = 0;
+	};
+	8D576317048677EA00EA77CD /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 1302}}";
+			sepNavSelRange = "{918, 0}";
+			sepNavVisRange = "{611, 1390}";
+			sepNavWindowFrame = "{{1455, 855}, {1001, 774}}";
+		};
+	};
+	B50A12BC0D71981800B7FF19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 018396D80662C2C00004726E /* BFXHalveAndAdd.m */;
+		name = "BFXHalveAndAdd.m: 217";
+		rLen = 0;
+		rLoc = 6332;
+		rType = 0;
+		vrLen = 1580;
+		vrLoc = 4611;
+	};
+	B50ABFF20D3845D400861DFC /* Final Cut Pro */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = B50ABFF30D3845D400861DFC /* Final Cut Pro.app */;
+		libgmallocEnabled = 0;
+		name = "Final Cut Pro";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B50ABFF30D3845D400861DFC /* Final Cut Pro.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Final Cut Pro.app";
+		path = "/Applications/Final Cut Pro.app";
+		sourceTree = "<absolute>";
+	};
+	B51E3EA50DD29FCE007E735E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 018396D80662C2C00004726E /* BFXHalveAndAdd.m */;
+		name = "BFXHalveAndAdd.m: 16";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1368;
+		vrLoc = 0;
+	};
+	B5D144C40D3842DD0051A1CA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	B5D144C50D3842DD0051A1CA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
